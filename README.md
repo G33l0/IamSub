@@ -1,6 +1,6 @@
 # IamSub v1.1.0
 
-![Banner](image.png)
+![Banner](image.PNG)
 
 ## Overview
 IamSub is a defensive cybersecurity tool designed for authorized subdomain enumeration and attack surface analysis. Unlike standard scrapers, IamSub focuses on the *context* of discovered assets, categorizing them by response codes and providing defensive insights into potential misconfigurations.
