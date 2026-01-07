@@ -21,7 +21,7 @@ IamSub is a defensive cybersecurity tool designed for authorized subdomain enume
 ### Setup
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/iamsub.git](https://github.com/yourusername/iamsub.git)
+    git clone [https://github.com/G33l0/iamsub.git](https://github.com/G33l0/iamsub.git)
     cd iamsub
     ```
 2.  Install dependencies:
