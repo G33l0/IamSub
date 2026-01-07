@@ -26,6 +26,8 @@ IamSub is a defensive cybersecurity tool designed for authorized subdomain enume
     ```
 2.  Install dependencies:
     ```bash
+    python3 -m venv venv
+    source venv/bin/activate
     pip install -r requirements.txt
     ```
 3.  Make executable:
