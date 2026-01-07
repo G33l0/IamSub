@@ -1,0 +1,3 @@
+# IamSub Security Tool Dependencies
+requests>=2.25.1
+colorama>=0.4.4
