@@ -26,7 +26,7 @@ IamSub is a defensive cybersecurity tool designed for authorized subdomain enume
     ```
 2.  Install dependencies:
     ```bash
-    pip install requests colorama
+    pip install -r requirements.txt
     ```
 3.  Make executable:
     ```bash
@@ -39,3 +39,12 @@ IamSub is a defensive cybersecurity tool designed for authorized subdomain enume
 Run the full pipeline (Enumeration -> Liveness -> Analysis -> Reporting):
 ```bash
 ./iamsub.py example.com
+
+Specific Commands
+• Enumerate Only: python3 iamsub.py enumerate example.com
+• Live Check Only: python3 iamsub.py livecheck example.com
+
+
+Disclaimer
+This tool is for defensive purposes only. Only run IamSub against domains you own or have explicit authorized permission to test. The developers assume no liability for misuse or damage caused by this tool.
+
